@@ -17,6 +17,12 @@
       "name": "Tyrion Lannister",
       "email": "tyrion.lannister@got.com",
       "password": "iDrinkAndIKnow"
+    },
+    {
+      "id": "c8e1",
+      "name": "Rupok Koiry",
+      "email": "koiry.rupok@gmail.com",
+      "password": "123456"
     }
   ]
 }
