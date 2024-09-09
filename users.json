@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Jon Snow",
+      "email": "jon.snow@got.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Daenerys Targaryen",
+      "email": "daenerys.targaryen@got.com",
+      "password": "dragonQueen"
+    },
+    {
+      "id": "3",
+      "name": "Tyrion Lannister",
+      "email": "tyrion.lannister@got.com",
+      "password": "iDrinkAndIKnow"
+    }
+  ]
+}
